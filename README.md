@@ -3,7 +3,7 @@ sscr_14
 
 This repository holds the code used in the following article:
 
-Joseph, K., Morgan, G. P., Martin, M.K. and Carley, K.M. 
+Joseph, K., Morgan, G. P., Martin, M.K. and Carley, K.M. (2014).
 On the coevolution of stereotype, culture and social relationships. *to appear in Social Science Computer Review*
 
 Original results from the paper are in results_full.csv
@@ -14,10 +14,7 @@ The code is intended to provide a chance for replication analyses to be complete
 
 Please note, however, that I can't release code for the executable Construct.exe due to external restrictions.  If you're interested in how it works, though, I'd be more than happy to talk. You can also take a look at further documentation, available in the following article:
 
-Carley, K. M., Filonuk, D. T., Joseph, K., Kowalchuck, M., Lanham, M. J., & Morgan, G. P. (2012). Construct User Guide.
-
-The article is available at:
-http://reports-archive.adm.cs.cmu.edu/anon/anon/usr/ftp/home/ftp/isr2012/CMU-ISR-12-112.pdf
+Carley, K. M., Filonuk, D. T., Joseph, K., Kowalchuck, M., Lanham, M. J., & Morgan, G. P. (2012). Construct User Guide. http://reports-archive.adm.cs.cmu.edu/anon/anon/usr/ftp/home/ftp/isr2012/CMU-ISR-12-112.pdf
 
 To replicate, run gen_experiment.R to generate the directory structure for the experiments
 
